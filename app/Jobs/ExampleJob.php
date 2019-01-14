@@ -1,8 +1,9 @@
 <?php
 
 namespace App\Jobs;
-
-class ExampleJob extends Job
+class ExampleJob
+    extends
+    Job
 {
     /**
      * Create a new job instance.

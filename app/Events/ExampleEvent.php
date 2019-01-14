@@ -1,8 +1,9 @@
 <?php
 
 namespace App\Events;
-
-class ExampleEvent extends Event
+class ExampleEvent
+    extends
+    Event
 {
     /**
      * Create a new event instance.
